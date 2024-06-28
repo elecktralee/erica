@@ -9,7 +9,7 @@ Seja muito bem vinda(o) ao meu Perfil! ✨
 - Psicóloga entusiasta da tecnologia. 📚
 
 
-#### Hi hi, I'm Elecktralee!
+#### Hi, I'm Elecktralee!
 Welcome to my profile! ✨
 
 - Pronouns: she/her
