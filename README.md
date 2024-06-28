@@ -1,8 +1,10 @@
-## Oi, Eu sou a Elecktralee!
+
+
+  ## Oi, Eu sou a Elecktralee!                
 Seja muito bem vinda(o) ao meu Perfil! ✨
 
 <div>
-  <img align="right" alt="Git-Computador" width="150px" height="150px" src="./assets/Myself.gif"/>
+  <img align="right" alt="Git-Computador" width="150px" height="150px" src="./Erica-main/ERICA-main/assets/Myself.gif"/>
 </div>
 
 - Pronomes: ela/dela
@@ -25,7 +27,9 @@ Welcome to my profile! ✨
 </div>
 <br><br>
  <div>
-  <img align="center" alt="Pixel-Art" width="800px" src="https://github.com/LuSntgo/LuSntgo/blob/main/kikachan87.gif"/>
+  <img align="center" alt="Pixel-Art" width="800px" src="Erica-main/ERICA-main/1.gif"/>
+  <img align="center" alt="Pixel-Art" width="800px" src="Erica-main/ERICA-main/2.gif"/>
+  <img align="center" alt="Pixel-Art" width="800px" src="Erica-main/ERICA-main/3.gif"/>
 </div>
 
 
